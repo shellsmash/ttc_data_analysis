@@ -1,0 +1,21 @@
+id,name,mode,line_number
+16289,Humber College Station,LRT,6
+16291,Westmore Station,LRT,6
+16293,Martin Grove Station,LRT,6
+16295,Albion Station,LRT,6
+16297,Stevenson Station,LRT,6
+16299,Mount Olive Station,LRT,6
+16301,Rowntree Mills Station,LRT,6
+16303,Pearldale Station,LRT,6
+16305,Duncanwoods Station,LRT,6
+16307,Milvan Rumike Station,LRT,6
+16309,Emery Station,LRT,6
+16311,Signet Arrow Station,LRT,6
+16313,Norfinch Oakdale Station,LRT,6
+16315,Jane and Finch Station,LRT,6
+16317,Driftwood Station,LRT,6
+16319,Tobermory Station,LRT,6
+16321,Sentinel Station,LRT,6
+9149,Finch West Station,SUBWAY,"1,6"
+760,College Station,SUBWAY,"1,6"
+3212,Finch Station,SUBWAY,"1,6"
